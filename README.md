@@ -1,4 +1,5 @@
-<h1  style=font-weight: bold>👋 Hi, I’m Heverton Costa</h1>
+<h1  style=font-weight: bold>👋 Hi! Thanks for accessing my profile on GitHub. Welcome. </h1>
+<h2  style=font-weight: bold> My name is Heverton Costa </h2>
 
 
 
