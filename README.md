@@ -1,6 +1,11 @@
-<h1  style=font-weight: bold>👋 Olá! Obrigado por visitar meu perfil do GitHub. Seja bem-vindo. </h1>
 
+## 👋 Olá! Obrigado por visitar meu perfil do GitHub. Seja bem-vindo.
 
+<div align="center">
+  <a href="https://github.com/Hevertonmcosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hevertonmcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevertonmcosta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <h2> Trabalho com:</h2>
 
